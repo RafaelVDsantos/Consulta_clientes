@@ -1,0 +1,40 @@
+body {
+    background-color: #f9f9f9;
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    color: #444;
+}
+
+h2 {
+    color: black;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.container {
+    max-width: 900px;
+    margin-top: 15px;
+    padding: 15px;
+    background-color: #ffffff;
+    border-radius: 6px;
+}
+
+.form-control {
+    font-size: 0.85rem;
+    padding: 7px;
+    border-radius: 4px;
+}
+
+.btn {
+    font-size: 0.85rem;
+    padding: 7px 14px;
+    border-radius: 4px;
+}
+
+.mb-3, .mb-4 {
+    margin-bottom: 0.8rem;
+}
+
+p {
+    margin: 4px 0;
+    font-size: 0.85rem;
+}

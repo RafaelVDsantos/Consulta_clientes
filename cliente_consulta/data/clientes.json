@@ -1,0 +1,32 @@
+{
+    "55566677788": {
+        "nome": "Ana Costa",
+        "data_nascimento": "1995-07-25",
+        "email": "ana.costa@example.com"
+    },
+    "33333333333": {
+        "nome": "Bulga",
+        "data_nascimento": "01-02-2000",
+        "email": "bugabuga@gmail.com"
+    },
+    "11122233344": {
+        "nome": "Carlos Pereira",
+        "data_nascimento": "1978-02-10",
+        "email": "carlos.pereira@example.com"
+    },
+    "77777777777": {
+        "nome": "Diego",
+        "data_nascimento": "03-03-2000",
+        "email": "didi@ego"
+    },
+    "98765432111": {
+        "nome": "Maria Oliveira",
+        "data_nascimento": "1985-09-20",
+        "email": "maria.oliveira@example.com"
+    },
+    "55555555555": {
+        "nome": "zico",
+        "data_nascimento": "02-02-2000",
+        "email": "zicizici@gmail.com"
+    }
+}
